@@ -1,2 +1,2 @@
-# JRubyArtBook
-A repository for JRubyArt Book
+# JRubyArt Book
+There is a need for book on JRubyArt, it might get written here.
